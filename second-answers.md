@@ -22,4 +22,3 @@ Automatic merge failed; fix conflicts and then commit the result.
                4 File(s)            901 bytes
                2 Dir(s)  136,016,347,136 bytes free
 7. NO
-8. 
